@@ -1,0 +1,1 @@
+Same output every run.
